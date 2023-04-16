@@ -8,25 +8,25 @@ using UnityEngine;
 public class GameState : ScriptableObject,IState
 {
 
-    public Action onGameStateStart;
-    public Action onGameStateUpdate;
-    public Action onGameStateExit;
+    public Action OnGameStateStart;
+    public Action OnGameStateUpdate;
+    public Action OnGameStateExit;
     private string _stateName;
 
 
     public void Tick()
     {
-        onGameStateUpdate?.Invoke();
+        OnGameStateUpdate?.Invoke();
     }
 
     public void OnEnter()
     {
-        onGameStateStart?.Invoke();
+        OnGameStateStart?.Invoke();
     }
 
     public void OnExit()
     {
-        onGameStateExit?.Invoke();
+        OnGameStateExit?.Invoke();
     }
     
     

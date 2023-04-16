@@ -14,5 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   isLoading: 0
   mainMenuSceneActive: 0
-  isLevelLoaded: 1
-  isLevelStarted: 1
+  isLevelLoaded: 0
+  isLevelStarted: 0
