@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &679888512603879370
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 679888512603879369}
+  - component: {fileID: 679888512603879368}
+  m_Layer: 0
+  m_Name: GameStateManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &679888512603879369
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 679888512603879370}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &679888512603879368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 679888512603879370}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72e3f5c5162f81841a0bf7eb971476cc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data: {fileID: 11400000, guid: 928d5607b802b90448a3bf0ddab5ea00, type: 2}
+  currentState: {fileID: 11400000, guid: 7ca060eeb6be781409d5d8c21cf239cb, type: 2}
+  introSceneState: {fileID: 11400000, guid: 15cfc513c777d754ab5645fb3ebd8359, type: 2}
+  mainMenuState: {fileID: 11400000, guid: e2dfcfc02efb83f4aa1078f7cbb1c7cb, type: 2}
+  gameLoadingState: {fileID: 11400000, guid: cf40586e8e98a784c8f84294e9c4f9cc, type: 2}
+  beforePlayState: {fileID: 11400000, guid: 2814d09e15db71c459d4d9d0dbdecbd4, type: 2}
+  inGameState: {fileID: 11400000, guid: 7ca060eeb6be781409d5d8c21cf239cb, type: 2}
+  levelEndState: {fileID: 11400000, guid: 99e9abe7adee937438c9925f804425f0, type: 2}

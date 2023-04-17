@@ -10,6 +10,7 @@ namespace Managers
         [SerializeField] private GameState[] statesToSubscribe;
 
         private Vector3 _firstHitPos;
+        private Vector3 _currentHitPos;
         private Vector3 _lastHitPos;
         private Vector2 _delta;
 
@@ -45,6 +46,12 @@ namespace Managers
                 _firstHitPos = Input.mousePosition;
                 IRaycastable objectSelected = GetRaycastable();
                 objectSelected?.Execute();
+                return;
+            }
+
+            if (Input.GetMouseButton(0))
+            {
+                _currentHitPos = Input.mousePosition;
             }
             
             else if (Input.GetMouseButtonUp(0))
@@ -54,8 +61,8 @@ namespace Managers
                 _lastHitPos = Input.mousePosition;
                 OnInputReleased?.Invoke(_lastHitPos-_firstHitPos);
             }
-            
-            
+
+
         }
 
 
