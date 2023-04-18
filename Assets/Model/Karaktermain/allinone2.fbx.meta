@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: 0d56e4361c387254b9d2c64f6595da84
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -8056388715501756418
+    second: fastrun
+  - first:
+      74: 5739078200342441037
+    second: Action Idle To Standing Idle
+  - first:
+      74: -624179368239819695
+    second: Ascending Stairs
+  - first:
+      74: 7357889517389012616
+    second: Backflip
+  - first:
+      74: 2954890988238578466
+    second: 'Being Strangled '
+  - first:
+      74: -4513035777606678296
+    second: 'Big Jump '
+  - first:
+      74: 5876980235052571772
+    second: boxing
+  - first:
+      74: 524534819341926176
+    second: Boxing2
+  - first:
+      74: 3374230894058918012
+    second: Braced Hang
+  - first:
+      74: 5298050821461355579
+    second: 'Button Pushing '
+  - first:
+      74: 6738454210665330070
+    second: 'Closing '
+  - first:
+      74: 6701714801859291567
+    second: Crouched To Sprinting
+  - first:
+      74: 595892558497630867
+    second: 'Crouched To Standing '
+  - first:
+      74: -8896155192691263284
+    second: 'Crouched Walking '
+  - first:
+      74: 4619143724116772466
+    second: 'Death '
+  - first:
+      74: -924594409248500315
+    second: 'Descending Stairs '
+  - first:
+      74: -6926982658789726206
+    second: Dodging
+  - first:
+      74: 6690620664312781819
+    second: Drawing Gun
+  - first:
+      74: -7676326281657515617
+    second: Fall Flat
+  - first:
+      74: -1500354584072067147
+    second: Falling
+  - first:
+      74: 5945715176172963881
+    second: 'Female Crouch Pose '
+  - first:
+      74: -8324175520192026360
+    second: 'Fighting Idle '
+  - first:
+      74: -2411537228867288521
+    second: 'Flair '
+  - first:
+      74: -1188963826517286865
+    second: Flair2
+  - first:
+      74: -5957823211128442726
+    second: Flair3
+  - first:
+      74: -6946077079449963172
+    second: 'Freehang Climb '
+  - first:
+      74: 1250091135695478090
+    second: Grab And Put Back Rifle
+  - first:
+      74: -7058301161773613985
+    second: Grab And Slam
+  - first:
+      74: -9117437704881463263
+    second: Grab Rifle And Put Back
+  - first:
+      74: 2076345518410806803
+    second: Great Sword Power Up
+  - first:
+      74: 640437368750987577
+    second: 'Hanging Idle '
+  - first:
+      74: 1236501598711412774
+    second: Hanging Idle 2
+  - first:
+      74: -142562198987392426
+    second: 'Head Hit '
+  - first:
+      74: 5097397926955900198
+    second: Hit To Body
+  - first:
+      74: 1660331032350122721
+    second: Hook
+  - first:
+      74: -1288182169105168823
+    second: 'Idle '
+  - first:
+      74: 2562888284788868603
+    second: Idle2
+  - first:
+      74: 5786852741703320754
+    second: Joyful Jump
+  - first:
+      74: 5539831331247536789
+    second: Jump
+  - first:
+      74: -3020671006382218041
+    second: 'Jump From Wall '
+  - first:
+      74: 46435124090893724
+    second: Jump Over
+  - first:
+      74: 3094306311960882887
+    second: 'Jumping '
+  - first:
+      74: -5653339964730437512
+    second: Jumping 2
+  - first:
+      74: 8020568442485392124
+    second: 'Jumping Down '
+  - first:
+      74: 7413230370448155511
+    second: Jumping Up
+  - first:
+      74: 2030955964390767469
+    second: Magic Spell Casting
+  - first:
+      74: 5378525414996749031
+    second: Neutral Idle
+  - first:
+      74: 2200836590990027924
+    second: 'Ninja Idle '
+  - first:
+      74: -3587281385531689279
+    second: 'Opening '
+  - first:
+      74: -362100987326275263
+    second: Opening 2
+  - first:
+      74: 2712779941232962015
+    second: 'Opening A Lid '
+  - first:
+      74: 7281687154485382977
+    second: 'Pointing '
+  - first:
+      74: -5850331927856575136
+    second: push stop
+  - first:
+      74: 6873078942831470962
+    second: 'Pushing '
+  - first:
+      74: 8126687191697050444
+    second: Put Back Rifle Behind Shoulder
+  - first:
+      74: 2404694050005076733
+    second: 'Reloading '
+  - first:
+      74: -8187395770669653084
+    second: Right Shimmy
+  - first:
+      74: 8391329288044812273
+    second: Right Strafe
+  - first:
+      74: -4028308708599296689
+    second: Run2
+  - first:
+      74: -6752842111314619419
+    second: Run To Dive
+  - first:
+      74: -7043973968303911674
+    second: Run To Flip
+  - first:
+      74: -2769912061838951224
+    second: Run To Rolling
+  - first:
+      74: 8433645096505935244
+    second: Running3
+  - first:
+      74: -4363282065259634264
+    second: Running Jump
+  - first:
+      74: -8878616242820483499
+    second: 'Running Up Stairs '
+  - first:
+      74: 6277377427638439636
+    second: Searching Files High
+  - first:
+      74: 5336055397195149218
+    second: 'Slow Run '
+  - first:
+      74: -130166421084065205
+    second: Spin In Place
+  - first:
+      74: 9150686684125865913
+    second: Stand
+  - first:
+      74: 2108222138224063383
+    second: Stand To Freehang
+  - first:
+      74: 8130411845881863249
+    second: Standard Run
+  - first:
+      74: 39653706220055279
+    second: Standing 1H Magic Attack 01
+  - first:
+      74: -2723562451932580541
+    second: Standing 2H Magic Area Attack 02
+  - first:
+      74: 6502842997849428196
+    second: Standing 2H Magic Attack 01
+  - first:
+      74: 2291079815865724690
+    second: Standing 2H Magic Attack 05
+  - first:
+      74: 3306770488564944709
+    second: Standing Idle To Fight Idle
+  - first:
+      74: 7304760683415605076
+    second: 'Standing Jump '
+  - first:
+      74: 4943130680179023428
+    second: Standing To Crouched
+  - first:
+      74: -1455089312423828073
+    second: Standing Up
+  - first:
+      74: 8593996447554333280
+    second: 'Sword And Shield Jump '
+  - first:
+      74: -1098464931494436672
+    second: Sword And Shield Power Up
+  - first:
+      74: -6607714082345254631
+    second: Taking Item
+  - first:
+      74: 8349024026861860892
+    second: 'Talking '
+  - first:
+      74: 4102543549328800629
+    second: Talking On A Cell Phone
+  - first:
+      74: -946167557796152084
+    second: Vault Over Box
+  - first:
+      74: -7198161552792453493
+    second: 'Victory '
+  - first:
+      74: -2422350723045547755
+    second: Wall Run
+  - first:
+      74: 5258543574616795223
+    second: Armature|Action Idle To Standing Idle
+  - first:
+      74: 72472372701707883
+    second: Armature|Ascending Stairs
+  - first:
+      74: -7193298714393506430
+    second: Armature|Backflip
+  - first:
+      74: -2356243014151736069
+    second: 'Armature|Being Strangled '
+  - first:
+      74: -8191536079897365837
+    second: 'Armature|Big Jump '
+  - first:
+      74: 7614150592677332810
+    second: Armature|boxing
+  - first:
+      74: 5122497087004940000
+    second: Armature|Boxing2
+  - first:
+      74: -6514709638783666594
+    second: Armature|Braced Hang
+  - first:
+      74: 2864588427033429675
+    second: 'Armature|Button Pushing '
+  - first:
+      74: -5155186136726784853
+    second: 'Armature|Closing '
+  - first:
+      74: -5127031030414970052
+    second: Armature|Crouched To Sprinting
+  - first:
+      74: 5620277681743934180
+    second: 'Armature|Crouched To Standing '
+  - first:
+      74: -4588159179328641261
+    second: 'Armature|Crouched Walking '
+  - first:
+      74: -6619192219911689741
+    second: 'Armature|Death '
+  - first:
+      74: -718958515544503009
+    second: 'Armature|Descending Stairs '
+  - first:
+      74: 1541236694364887824
+    second: Armature|Dodging
+  - first:
+      74: -2552738757415099881
+    second: Armature|Drawing Gun
+  - first:
+      74: -7620654575354532283
+    second: Armature|Fall Flat
+  - first:
+      74: 6881873686158965456
+    second: Armature|Falling
+  - first:
+      74: 2209159846829833380
+    second: Armature|fastrun
+  - first:
+      74: 7651288408772763368
+    second: 'Armature|Female Crouch Pose '
+  - first:
+      74: -2415210955800491551
+    second: 'Armature|Fighting Idle '
+  - first:
+      74: 2632631759005367762
+    second: 'Armature|Flair '
+  - first:
+      74: 7914243686415141078
+    second: Armature|Flair2
+  - first:
+      74: 8806345422412888004
+    second: Armature|Flair3
+  - first:
+      74: 2537422072986126226
+    second: 'Armature|Freehang Climb '
+  - first:
+      74: -7104369631297728556
+    second: Armature|Grab And Put Back Rifle
+  - first:
+      74: -5821650333414799517
+    second: Armature|Grab And Slam
+  - first:
+      74: 5257705284692135477
+    second: Armature|Grab Rifle And Put Back
+  - first:
+      74: -5898215286401644051
+    second: Armature|Great Sword Power Up
+  - first:
+      74: 8532963461706331248
+    second: 'Armature|Hanging Idle '
+  - first:
+      74: 3584578295325667366
+    second: Armature|Hanging Idle 2
+  - first:
+      74: 8399107711266193531
+    second: 'Armature|Head Hit '
+  - first:
+      74: 1757584248633603668
+    second: Armature|Hit To Body
+  - first:
+      74: 9118054632628040224
+    second: Armature|Hook
+  - first:
+      74: -8856283390429189166
+    second: 'Armature|Idle '
+  - first:
+      74: 213856876459495052
+    second: Armature|Idle2
+  - first:
+      74: 794920972148940109
+    second: Armature|Joyful Jump
+  - first:
+      74: 1079665108409675491
+    second: Armature|Jump
+  - first:
+      74: -7436948072245028911
+    second: 'Armature|Jump From Wall '
+  - first:
+      74: -651645164650681288
+    second: Armature|Jump Over
+  - first:
+      74: 7215156504655291233
+    second: 'Armature|Jumping '
+  - first:
+      74: -854214203215620629
+    second: Armature|Jumping 2
+  - first:
+      74: -3619193079669932886
+    second: 'Armature|Jumping Down '
+  - first:
+      74: 5947073208163487496
+    second: Armature|Jumping Up
+  - first:
+      74: -4534958069326692125
+    second: Armature|Magic Spell Casting
+  - first:
+      74: 5311716820446922684
+    second: Armature|Neutral Idle
+  - first:
+      74: 5254107165592453731
+    second: 'Armature|Ninja Idle '
+  - first:
+      74: -7326262354652262078
+    second: 'Armature|Opening '
+  - first:
+      74: -7822361271121584649
+    second: Armature|Opening 2
+  - first:
+      74: 7804326771535185434
+    second: 'Armature|Opening A Lid '
+  - first:
+      74: 2989369710724574612
+    second: 'Armature|Pointing '
+  - first:
+      74: 5329410252651808023
+    second: Armature|push stop
+  - first:
+      74: -326758937839765751
+    second: 'Armature|Pushing '
+  - first:
+      74: 6711607789624283115
+    second: Armature|Put Back Rifle Behind Shoulder
+  - first:
+      74: 1424094243848402970
+    second: 'Armature|Reloading '
+  - first:
+      74: 8986910554333154777
+    second: Armature|Right Shimmy
+  - first:
+      74: 1367524698171049146
+    second: Armature|Right Strafe
+  - first:
+      74: -6915745332200743488
+    second: Armature|Run To Dive
+  - first:
+      74: -2862635074602536338
+    second: Armature|Run To Flip
+  - first:
+      74: -3569129106767485268
+    second: Armature|Run To Rolling
+  - first:
+      74: -2791508656229221981
+    second: Armature|Run2
+  - first:
+      74: 186169777504952141
+    second: Armature|Running Jump
+  - first:
+      74: -2236448027026285006
+    second: 'Armature|Running Up Stairs '
+  - first:
+      74: 3655661347767744047
+    second: Armature|Running3
+  - first:
+      74: -1462152705449042750
+    second: Armature|Searching Files High
+  - first:
+      74: -6380070259250660097
+    second: 'Armature|Slow Run '
+  - first:
+      74: 7430543183486700328
+    second: Armature|Spin In Place
+  - first:
+      74: -4032558703003846388
+    second: Armature|Stand
+  - first:
+      74: 8311814744856069643
+    second: Armature|Stand To Freehang
+  - first:
+      74: -4976839316164470041
+    second: Armature|Stand To Freehang.001
+  - first:
+      74: -2300081343189969413
+    second: Armature|Standard Run
+  - first:
+      74: 1356508252824306307
+    second: Armature|Standing 1H Magic Attack 01
+  - first:
+      74: 1178778173115277629
+    second: Armature|Standing 2H Magic Area Attack 02
+  - first:
+      74: -1238638509933379673
+    second: Armature|Standing 2H Magic Attack 01
+  - first:
+      74: 943343691501188015
+    second: Armature|Standing 2H Magic Attack 05
+  - first:
+      74: -4855398168506833329
+    second: Armature|Standing Idle To Fight Idle
+  - first:
+      74: -7529031546554168616
+    second: 'Armature|Standing Jump '
+  - first:
+      74: -4361182794114335472
+    second: Armature|Standing To Crouched
+  - first:
+      74: -251616688066502674
+    second: Armature|Standing Up
+  - first:
+      74: -5373891014622571113
+    second: 'Armature|Sword And Shield Jump '
+  - first:
+      74: 4598570149456291586
+    second: Armature|Sword And Shield Power Up
+  - first:
+      74: -1641144908655364495
+    second: Armature|Taking Item
+  - first:
+      74: -1456926428996299192
+    second: 'Armature|Talking '
+  - first:
+      74: 2389140889237265163
+    second: Armature|Talking On A Cell Phone
+  - first:
+      74: -4558714069332766513
+    second: Armature|Vault Over Box
+  - first:
+      74: 4625152328595821806
+    second: 'Armature|Victory '
+  - first:
+      74: 9095509407259255320
+    second: Armature|Wall Run
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
